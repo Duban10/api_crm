@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "fabian ",
+      "empresa": "Hospital",
+      "email": "gkaguilar@uninorte.edu.co",
+      "telefono": "3209034014",
+      "notas": "sdfsdf",
+      "id": 3
+    },
+    {
+      "nombre": "Bancolombia",
+      "empresa": "Hospital",
+      "email": "2@xx.com",
+      "telefono": "3146848868",
+      "notas": "xfgdfgdg",
+      "id": 4
+    },
+    {
+      "nombre": "angelica",
+      "empresa": "Hospital",
+      "email": "gkaguilar@uninorte.edu.co",
+      "telefono": "3209034014",
+      "notas": "",
+      "id": 5
+    }
+  ]
+}
